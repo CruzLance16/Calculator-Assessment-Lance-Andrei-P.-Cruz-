@@ -1,0 +1,19 @@
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\bin\Debug\Calculator Assessment.exe.config
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\bin\Debug\Calculator Assessment.exe
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\bin\Debug\Calculator Assessment.pdb
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator Assessment.csproj.AssemblyReference.cache
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator_Assessment.Properties.Resources.resources
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator Assessment.csproj.GenerateResource.cache
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator Assessment.exe
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator Assessment.pdb
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator_Assessment.Form1.resources
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator_Assessment.Form2.resources
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator_Assessment.Form3.resources
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator_Assessment.Form4.resources
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator_Assessment.Form5.resources
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lance\source\repos\Calculator Assessment\Calculator Assessment\obj\Debug\Calculator Assessment.csproj.ResolveComReference.cache
